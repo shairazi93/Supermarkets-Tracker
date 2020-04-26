@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003169401776",
+    "firebase_url": "https://supermarkets-1c492.firebaseio.com",
+    "project_id": "supermarkets-1c492",
+    "storage_bucket": "supermarkets-1c492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003169401776:android:a303a944b7fb104ac52475",
+        "android_client_info": {
+          "package_name": "com.dev.supermarkets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003169401776-gircdasnc2fctekg7j03nmlkh5471e0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKaNsGbOoiGcWiNVrZuj9DjC3U9SU0LFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003169401776-gircdasnc2fctekg7j03nmlkh5471e0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
